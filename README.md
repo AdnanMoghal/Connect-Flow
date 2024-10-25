@@ -1,6 +1,8 @@
 
 # Connect Flow
 
+> a sales and follow-up automation tool designed to help businesses increase conversions. It enables users to create automated campaigns using multiple channels—email, text, voice, and even postal mail. With customizable templates and reporting features, CLOSEM allows businesses to manage leads, follow-ups, and customer engagement efficiently, all while saving time and boosting sales.
+
 ## Build Setup
 
 ```bash
